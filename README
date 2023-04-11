@@ -1,0 +1,11 @@
+External libraries
+
+conio.c/conio2.h
+Downloaded external conio implementation from https://sourceforge.net/projects/conio/ for console routines.
+
+Test map:
+Apple: 3-kitchen
+Mjolnir: 9-treasury
+Spider: 7-throne hall
+
+Finish: 10-treasury
